@@ -72,6 +72,6 @@ CAN bus programming and configuration tool for Bafang e-bike controllers — dia
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=100&section=footer" width="100%"/>
 
-<sub>Built on Nobara. Fueled by spite and coffee.</sub>
+<sub>Powered by ADHD.</sub>
 
 </div>

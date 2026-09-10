@@ -65,10 +65,10 @@ CAN bus programming and configuration tool for Bafang e-bike controllers — dia
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mildspook&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=A83882&icon_color=A83882&text_color=000000&ring_color=A83882" width="49%"/>
+<img src="https://github-readme-stat-pink-two.vercel.app/api?username=Mildspook&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=A83882&icon_color=A83882&text_color=000000&ring_color=A83882" width="49%"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mildspook&hide_border=true&background=FFFFFF&ring=A83882&fire=A83882&currStreakLabel=A83882&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="49%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mildspook&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A83882&text_color=000000&langs_count=8" width="50%"/>
+<img src="https://github-readme-stat-pink-two.vercel.app/api/top-langs/?username=Mildspook&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=A83882&text_color=000000&langs_count=8" width="50%"/>
 
 </div>
 

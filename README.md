@@ -24,9 +24,9 @@ name: Mildspook
 based_on: Nobara Linux (Fedora)
 interests: [python, hardware hacking, networking, e-bikes]
 currently_building:
-  - P2pshare  → share files across networks, no cloud middleman
   - Volutra   → CAN bus config tool for Bafang e-bike controllers
-philosophy: "if it's not broken, it's not interesting yet"
+released:
+  - P2pshare  → share files across networks, no cloud middleman
 ```
 
 ---

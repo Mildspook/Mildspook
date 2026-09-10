@@ -2,10 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=220&section=header&text=Mild_Spook™&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=The%20smartest%20dumbass%20you'll%20ever%20meet%20🐧&descAlignY=55&descSize=18" width="100%"/>
 
-</div>
-
-<br/>
-
 <div align="center">
 
 ![Static Badge](https://img.shields.io/badge/OS-Nobara%20Linux-a83882?style=for-the-badge&logo=fedora&logoColor=white&labelColor=000000)

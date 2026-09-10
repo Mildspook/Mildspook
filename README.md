@@ -1,6 +1,11 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=220&section=header&text=Mild_Spook™&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=The%20smartest%20dumbass%20you'll%20ever%20meet%20🐧&descAlignY=55&descSize=18" width="100%"/>
+</a>
+
+</div>
+
+<br/>
 
 <div align="center">
 

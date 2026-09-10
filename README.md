@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=220&section=header&text=Mild_Spook™&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=The%20smartest%20dumbass%20you'll%20ever%20meet%20🐧&descAlignY=55&descSize=18" width="100%"/>
 
 <a href="https://github.com/Mildspook">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A83882&center=true&vCenter=true&width=600&lines=Linux+tinkerer+%7C+Fedora+%2F+Nobara;Python+dev+%7C+builder+of+overenginnered+tools;P2pshare+%E2%80%A2+Voltura+%E2%80%A2+whatever's+next" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=A83882&center=true&vCenter=true&width=600&lines=Linux+tinkerer+%7C+Fedora+%2F+Nobara;Python+dev+%7C+builder+of+odd+tools;P2pshare+%E2%80%A2+Voltura+%E2%80%A2+whatever's+next" alt="Typing SVG" />
 </a>
 
 </div>
@@ -29,7 +29,7 @@ interests: [python, hardware hacking, networking, e-bikes]
 currently_building:
   - P2pshare  → share files across networks, no cloud middleman
   - Volutra   → CAN bus config tool for Bafang e-bike controllers
-philosophy: "if it's not broken, it's not worth toutching"
+philosophy: "if it's not broken, it's not interesting yet"
 ```
 
 ---
@@ -78,6 +78,6 @@ CAN bus programming and configuration tool for Bafang e-bike controllers — dia
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=100&section=footer" width="100%"/>
 
-<sub>Built on Nobara. Fueled by Adhd.</sub>
+<sub>Built on Nobara. Fueled by spite and coffee.</sub>
 
 </div>

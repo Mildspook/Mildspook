@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=a83882&height=220&section=header&text=Mild_Spook™&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=The%20smartest%20dumbass%20you'll%20ever%20meet%20🐧&descAlignY=55&descSize=18" width="100%"/>
-</a>
 
 </div>
 
@@ -62,7 +61,7 @@ CAN bus programming and configuration tool for Bafang e-bike controllers — dia
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mildspook&hide_border=true&background=FFFFFF&ring=A83882&fire=A83882&currStreakLabel=A83882&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="60%"/>
+<img src="https://streak-stats.demolab.com/?user=Mildspook&hide_border=true&background=FFFFFF&ring=A83882&fire=A83882&currStreakLabel=A83882&sideLabels=000000&dates=000000&currStreakNum=000000&sideNums=000000" width="60%"/>
 
 </div>
 
